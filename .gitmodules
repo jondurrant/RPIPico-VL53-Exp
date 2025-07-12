@@ -1,0 +1,6 @@
+[submodule "lib/VL53L0X-driver-pico-sdk-cpp"]
+	path = lib/VL53L0X-driver-pico-sdk-cpp
+	url = https://github.com/yspreen/VL53L0X-driver-pico-sdk-cpp
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://github.com/lvgl/lvgl
